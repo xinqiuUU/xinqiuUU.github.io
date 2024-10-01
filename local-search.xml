@@ -49,9 +49,9 @@
     
     <tags>
       
-      <tag>缓存算法</tag>
-      
       <tag>Java</tag>
+      
+      <tag>缓存算法</tag>
       
       <tag>数据结构</tag>
       
@@ -113,8 +113,6 @@
     
     <tags>
       
-      <tag>Java</tag>
-      
       <tag>Spring</tag>
       
       <tag>ActiveMQ</tag>
@@ -122,6 +120,8 @@
       <tag>消息队列</tag>
       
       <tag>JMS</tag>
+      
+      <tag>Java</tag>
       
     </tags>
     
